@@ -1,0 +1,11 @@
+resources:
+  postgres:
+    config:
+      connection_string: "postgresql://username:password@host:port/dbname"
+  s3:
+    config:
+      s3_bucket: "my-s3-bucket"
+      aws_access_key_id: "your_access_key_id"
+      aws_secret_access_key: "your_secret_access_key"
+      region_name: "us-east-1"
+

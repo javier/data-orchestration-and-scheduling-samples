@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#  ignore dagster metadata on sqlite
+runs.db
+index.db
+schedules.db
