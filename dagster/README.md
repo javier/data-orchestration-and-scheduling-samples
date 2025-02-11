@@ -21,7 +21,7 @@ The pipeline showcases how Dagster integrates with external tools like PostgreSQ
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/javier/data-orchestration-and-scheduling-samples.git
+   git clone https://github.com/questdb/data-orchestration-and-scheduling-samples.git
    cd data-orchestration-and-scheduling-samples/dagster
    ```
 
