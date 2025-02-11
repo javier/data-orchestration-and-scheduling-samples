@@ -174,3 +174,5 @@ cython_debug/
 runs.db
 index.db
 schedules.db
+
+logs/
